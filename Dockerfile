@@ -6,7 +6,7 @@ ENV KUBECTL_VERSION="v1.18.8"
 # net tools
 RUN apt update \
     && apt install -y curl ca-certificates iputils-ping dnsutils net-tools iproute2 \
-    && apt install -y python3 python3-pip make git upx \
+    && apt install -y python3 python3-pip make git upx unzip \
     && rm -rf /var/lib/apt/lists/*
 
 # kubectl
