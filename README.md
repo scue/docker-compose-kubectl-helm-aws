@@ -6,5 +6,6 @@
 | helm           	| v3.3.4  	|
 
 Tags:
-- ([scue/docker-compose-kubectl-helm-aws:v0.1.0 Dockerfile](https://github.com/scue/docker-compose-kubectl-helm-aws/blob/7734083/Dockerfile))
+- ([scue/docker-compose-kubectl-helm-aws:v0.1.2 Dockerfile](https://github.com/scue/docker-compose-kubectl-helm-aws/blob/878474f/Dockerfile))
 - ([scue/docker-compose-kubectl-helm-aws:v0.1.1 Dockerfile](https://github.com/scue/docker-compose-kubectl-helm-aws/blob/a973827/Dockerfile))
+- ([scue/docker-compose-kubectl-helm-aws:v0.1.0 Dockerfile](https://github.com/scue/docker-compose-kubectl-helm-aws/blob/7734083/Dockerfile))
